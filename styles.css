@@ -1,0 +1,32 @@
+.carousel-caption h2 {
+ font-size: 75px;
+ color: rgb(0, 0, 0);
+ text-shadow: #fff 2px 3px 2px;
+}
+.carousel-caption p {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    text-shadow: #fff 2px 2px 2px;
+   }
+ .navbar {
+       background-color: #000!important;
+     
+   }
+   .navbar a {
+       color: #fff!important;
+   }
+   .navbar a:hover {
+    color: rgb(3, 85, 3)!important;
+}
+
+.footer {
+    background-color: #000;
+    height: 300px;
+}
+.content {
+    background-color: #cccccc;
+    height: 500px;
+}
+.carousel-indicators li {
+    background-color: #000;
+}
