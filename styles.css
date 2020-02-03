@@ -25,8 +25,18 @@
 }
 .content {
     background-color: #cccccc;
-    height: 500px;
+    
 }
 .carousel-indicators li {
     background-color: #000;
+}
+.destaque-home {
+
+}
+.destaque-item {
+    margin: 20px;;
+
+}
+.destaque-item img {
+  
 }
