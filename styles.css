@@ -17,11 +17,13 @@
    }
    .navbar a:hover {
     color: rgb(3, 85, 3)!important;
+    font-weight: bold;
 }
 
 .footer {
     background-color: #000;
-    height: 300px;
+    padding-top: 30px; color:#fff;
+    padding-bottom: 30px;
 }
 .content {
     background-color: #cccccc;
@@ -34,9 +36,20 @@
 
 }
 .destaque-item {
-    margin: 20px;;
-
+    margin: 20px;
+    text-align: center;
+    /* border: 1px solid #000; */
+}
+.destaque-item h4 {
+  text-align: center;
 }
 .destaque-item img {
-  
+    max-width: 100%;
 }
+.footer .status a{
+    color: #fff;
+
+}
+.footer .status a:hover {text-decoration: none;}
+.footer2 { background-color: rgb(31, 31, 31);  padding-top: 20px; color:#fff;
+    padding-bottom: 20px; text-align: center;}
