@@ -16,8 +16,8 @@
        color: #fff!important;
    }
    .navbar a:hover {
-    color: rgb(3, 85, 3)!important;
-    font-weight: bold;
+    color: rgb(139, 153, 139)!important;
+   /* font-weight: bold; */
 }
 
 .footer {
@@ -53,3 +53,7 @@
 .footer .status a:hover {text-decoration: none;}
 .footer2 { background-color: rgb(31, 31, 31);  padding-top: 20px; color:#fff;
     padding-bottom: 20px; text-align: center;}
+
+    .icon-footer-big {font-size: 70px;color: #57a58e;}
+.btn-blotti {background-color: #57a58e;}
+.btn-blotti:hover {background-color: rgb(31, 31, 31);}
